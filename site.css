@@ -47,7 +47,6 @@ body {
   .header_middle .search-container {
     flex: 1;
     display: flex;
-    /* justify-content: left; */
     margin-top: 0px;
     position: relative;
   }
